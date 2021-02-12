@@ -1,3 +1,7 @@
+a:hover {
+  text-decoration: none;
+}
+
 .search-input {
   background-color: #f1f3f4;
   border: none;
@@ -30,4 +34,40 @@
 .right-icons i {
   color: #5f6368;
   font-size: 1.5rem;
+}
+
+.new-btn {
+  width: 9rem;
+  box-shadow: -1px 0px 10px -5px rgba(0, 0, 0, 0.44);
+  -webkit-box-shadow: -1px 0px 10px -5px rgba(0, 0, 0, 0.44);
+  -moz-box-shadow: -1px 0px 10px -5px rgba(0, 0, 0, 0.44);
+  border-radius: 4rem;
+}
+
+.new-btn h5,
+.left-bar-btn i,
+.left-bar-btn h5,
+.drive-list a,
+.quick-access p {
+  color: #75787a;
+}
+
+.dropdown-btn {
+  font-size: 1.5rem;
+}
+
+.drive-list a {
+  font-size: 1.5rem;
+}
+
+.card h5 {
+  color: #474747;
+}
+
+.fa-stream {
+  color: #4285f4;
+}
+
+.fa-image {
+  color: #d93126;
 }
