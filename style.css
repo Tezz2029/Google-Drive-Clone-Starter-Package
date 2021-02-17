@@ -71,3 +71,33 @@ a:hover {
 .fa-image {
   color: #d93126;
 }
+
+.storage {
+  font-size: 2.5rem;
+  color: #75787a;
+}
+
+.storage i {
+  font-size: 1.5rem;
+}
+
+.progress {
+  width: 90%;
+}
+
+.storage_text {
+  font-size: 1.1rem;
+  padding-top: 0.5rem;
+}
+
+.storage-btn {
+  background-color: white;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 640;
+  text-align: center;
+  padding: 5px 15px;
+  border: 0.1rem solid gainsboro;
+  color: #4285f4;
+  border-radius: 0.3rem;
+}
